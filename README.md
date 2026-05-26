@@ -1,7 +1,7 @@
 # Analog Circuit Design & System Integration Portfolio
 
 ## Overview
-This repository contains a comprehensive suite of transistor-level analog circuit simulations and a complete system-level capstone project developed during the **Texas Instruments 'BYTE' Technical Certification Program**. 
+This repository contains a comprehensive suite of transistor-level analog circuit simulations and a complete system-level capstone project developed during the **Texas Instruments 'BYTE' Technical Program**. 
 
 The objective of this portfolio is to demonstrate the bridge between theoretical solid-state physics and practical electrical engineering by modeling, designing, and verifying analog circuits and sensor systems using the open-source **Quite Universal Circuit Simulator (QUCS)**.
 
