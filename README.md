@@ -25,7 +25,7 @@ The project files and technical reports are organized by progressive complexity,
 ---
 
 ## 🚀 Featured Capstone: Smart Flood Detection System
-To culminate the TI BYTE training, I designed and simulated a complete, applied electronic system. This project transitioned my focus from isolated circuit analysis to **system-level integration**.
+To culminate the TI BYTE training, we designed and simulated a complete, applied electronic system. This project transitioned my focus from isolated circuit analysis to **system-level integration**.
 
 **Key Engineering Highlights:**
 * **Sensor Interfacing:** Designed the front-end analog interface to process physical environmental inputs.
